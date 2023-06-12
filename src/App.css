@@ -1,0 +1,27 @@
+.heading{
+  text-align: center;
+}
+
+.input{
+  display: flex;
+  margin: 0 auto;
+  
+}
+
+.text{
+  text-align: center;
+}
+
+.clear{
+  display: flex;
+  margin: 0 auto;
+  color: #fff;
+  background: red;
+  border: none;
+  margin-top: .2rem;
+  width: 54px;
+  border-radius: .2rem;
+  font-weight: bold;
+  font-size: 17px;
+  cursor: pointer;
+}
